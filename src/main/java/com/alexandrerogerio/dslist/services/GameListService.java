@@ -6,9 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.alexandrerogerio.dslist.dto.GameDTO;
 import com.alexandrerogerio.dslist.dto.GameListDTO;
-import com.alexandrerogerio.dslist.entities.Game;
 import com.alexandrerogerio.dslist.entities.GameList;
 import com.alexandrerogerio.dslist.repositories.GameListRepository;
 
